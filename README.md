@@ -16,7 +16,7 @@ pip3 install -r requirements.txt
 
 ## License
 
-License is MIT. Please feel free to use any of these examples for you own training content.
+Licensed under [MIT](/LICENSE). Please feel free to use any of these examples for you own training content.
 
 ## Support
 
